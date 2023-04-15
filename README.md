@@ -2,7 +2,7 @@
 
 <br>
 
-- 🌱 Estou atualmente estudando tecnologias Back-End
+- 🌱 Estou atualmente estudando técnologias Back-End
 
 <br>
 
