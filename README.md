@@ -6,8 +6,6 @@
 
 <br>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Miche1Soares&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Miche1Soares/github-readme-stats#gh-dark-mode-only)
-
 ### Contatos ☎️
 
 <div> 
